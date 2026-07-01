@@ -8,7 +8,7 @@ edit_uri: edit/main/docs # 编辑地址
 edit_uri_template: "" # 编辑地址模板（默认值）
 site_description: 三高特快车网站 # 站点描述
 site_author: 三高特快车 # 站点作者
-copyright: <a href="#__consent">修改 Cookie 设置</a><br>Copyright &copy; 2026 三高特快车# 版权信息和 Cookie 设置
+copyright: <a href="#__consent">修改 Cookie 设置</a><br>Copyright &copy; 2026 三高特快车
 remote_branch: github-pages # GitHub Pages 远程分支名称（默认值）
 remote_name: origin # 远程名称（默认值）
 docs_dir: docs # 文档目录（默认值）
